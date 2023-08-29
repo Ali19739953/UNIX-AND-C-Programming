@@ -1,0 +1,8 @@
+This Zip file contains a bashcript which searches an entire directory recursively for words which you want to find,The scrit is case insentive.
+Also it has an calculator app which allows you to use the calculator on the console(terminal) only for division purposes, and the output result goes into a textfile
+To use the App:
+Unzip the files in a directory and open terminal in same directory, Type in Make to compile the files
+After that "./calculator output.txt 10000.0"
+The app only does calculation on the division operator and the number should be provided in the second command line argument
+You can navigate using the wasd buttons on the keyborad and also you can shuffle the calculator by pressing "e"
+I did these projects an year ago so i dont really remember their purpose but i did my best to recall and explain them to you.
